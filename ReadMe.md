@@ -4,10 +4,10 @@ The NEW UI/UX Animated FlatList module.
 
 #### Demo
 
-<center>
-  <img src="https://github.com/satyamkashyap2011/assets/blob/main/%40sksmoothui/react-native-animated-horizontal-flatlist/animatedFlatlist.gif" width="200">
-  <img src="https://github.com/satyamkashyap2011/assets/blob/main/%40sksmoothui/react-native-animated-horizontal-flatlist/animtedFlatlistResize2.gif" width="200">
-</center>
+
+| Blur Layout AutoPlay                                                                                                                  | Normal                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/satyamkashyap2011/assets/blob/main/%40sksmoothui/react-native-animated-horizontal-flatlist/animatedFlatlist.gif" width="200"> | <img src="https://github.com/satyamkashyap2011/assets/blob/main/%40sksmoothui/react-native-animated-horizontal-flatlist/animtedFlatlistResize2.gif" width="200"> |
 
 <hr>
 
