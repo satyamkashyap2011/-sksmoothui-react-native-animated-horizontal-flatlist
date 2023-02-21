@@ -1,0 +1,25 @@
+{
+  "name": "@sksmoothui/react-native-animated-horizontal-flatlist",
+  "version": "0.0.4",
+  "description": "The NEW UI/UX Animated FlatList module.",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/satyamkashyap2011/-sksmoothui-react-native-animated-horizontal-flatlist.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "animated",
+    "animatedFlatList",
+    "FlatList"
+  ],
+  "dependencies": {},
+  "author": "satyam.kashyap2011@gmail.com",
+  "license": "MIT"
+}
